@@ -166,11 +166,11 @@ Home.get('/', (c) => {
                 <span class="text-xs uppercase bg-opacity-15 rounded text-center max-w-fit px-2 py-1 font-bold tracking-wide bg-blue-500 text-blue-500">
                   Contact
                 </span>
-                <span class="text-neutral-200 font-bold text-lg sm:text-xl md:text-2xl mt-2">Sumit Kolhe</span>
+                <span class="text-neutral-200 font-bold text-lg sm:text-xl md:text-2xl mt-2">Dude</span>
                 <div class="text-neutral-500 mt-2">
                   Have a question or need help? Reach out on{' '}
                   <a
-                    href="https://github.com/sumitkolhe"
+                    href="https://github.com/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:underline text-indigo-500"
@@ -179,7 +179,7 @@ Home.get('/', (c) => {
                   </a>
                   ,{' '}
                   <a
-                    href="https://twitter.com/thesumitkolhe"
+                    href="https://twitter.com/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:underline text-sky-500"
@@ -188,7 +188,7 @@ Home.get('/', (c) => {
                   </a>
                   , or{' '}
                   <a
-                    href="https://t.me/sumitkolhe"
+                    href="https://t.me/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:underline text-pink-500"
