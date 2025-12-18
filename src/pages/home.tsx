@@ -144,7 +144,7 @@ Home.get('/', (c) => {
               </div>
             </a>
 
-            <a
+            {/* <a
               target="_blank"
               class="p-4 sm:p-8 hover:bg-opacity-5 hover:bg-white rounded-lg duration-100 sm:col-span-4"
               href="https://github.com/sumitkolhe/jiosaavn-api/issues"
@@ -197,7 +197,7 @@ Home.get('/', (c) => {
                   </a>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </main>
       </body>
